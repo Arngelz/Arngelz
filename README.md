@@ -1,0 +1,4 @@
+- 👋 Olá, essa é minha conta: @Arngelz
+- 👀 Estou interessad em aprofundar meus conhecimentos de programação!
+- 🌱 Estou aprendendo a como programar no Javascript e Scratch
+- 📫 Pode me contatar por aqui: @valentina.ortega@escola.pr.gov.
